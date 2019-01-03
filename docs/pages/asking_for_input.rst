@@ -331,7 +331,7 @@ in the completion menu or toolbar. This is possible by passing a style to each
             yield Completion('completion3', start_position=0,
                              style='class:special-completion')
 
-The "colorful-prompts.py" example uses completion styling:
+The "prompts/auto-completion/colored-completions.py" example uses completion styling:
 
 .. image:: ../images/colorful-completions.png
 
